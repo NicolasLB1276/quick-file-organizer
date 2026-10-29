@@ -9,6 +9,7 @@ A lightweight Python utility designed to automate local file sorting and directo
 
 ## Usage
 Run the script in your terminal and point it to the target directory:
-```bash
+```bash.
+
 python main.py# quick-file-organizer
 A lightweight utility tool to organize local development files and folders.
